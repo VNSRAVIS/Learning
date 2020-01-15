@@ -16,6 +16,9 @@ https://www.howtoforge.com/ansible-awx-guide-basic-usage-and-configuration/
 # Introduction
 https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html
 
+#Adhoc commands
+https://docs.ansible.com/ansible/latest/user_guide/intro_adhoc.html#
+
 #Playbook Keywords
 https://docs.ansible.com/ansible/latest/reference_appendices/playbooks_keywords.html#term-tasks
 
