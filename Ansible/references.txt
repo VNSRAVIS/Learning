@@ -9,3 +9,12 @@ https://www.howtoforge.com/ansible-guide-ad-hoc-command/
 https://www.howtoforge.com/ansible-guide-manage-files-using-ansible/
 https://www.howtoforge.com/ansible-guide-create-ansible-playbook-for-lemp-stack/    -- Roles
 https://www.howtoforge.com/ansible-awx-guide-basic-usage-and-configuration/
+
+Playbook Keywords
+https://docs.ansible.com/ansible/latest/reference_appendices/playbooks_keywords.html#term-tasks
+
+Modules:
+https://docs.ansible.com/ansible/latest/modules/modules_by_category.html
+
+YAML Syntax
+https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
