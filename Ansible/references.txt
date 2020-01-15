@@ -1,0 +1,11 @@
+
+Free Webinars:-
+https://www.ansible.com/resources/webinars-training
+#https://www.ansible.com/resources/webinars-training/introduction-to-ansible
+
+https://www.howtoforge.com/
+https://www.howtoforge.com/how-to-install-and-configure-ansible-on-ubuntu-1804/
+https://www.howtoforge.com/ansible-guide-ad-hoc-command/
+https://www.howtoforge.com/ansible-guide-manage-files-using-ansible/
+https://www.howtoforge.com/ansible-guide-create-ansible-playbook-for-lemp-stack/    -- Roles
+https://www.howtoforge.com/ansible-awx-guide-basic-usage-and-configuration/
